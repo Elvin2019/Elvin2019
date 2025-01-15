@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I am a React JS/Node JS Developer with industry experience in building websites and software solutions. I have professional experience working with Node.js and React JS.
+- 🔭 I am a React JS/Node JS Developer with industry experience in building websites and software solutions. I have professional experience working with Node.js, React JS, and TypeScript.
 - 🌱 I’m currently learning AWS services to expand my cloud expertise.
 - ⚡ Love taking on coding challenges to improve my skills and stay sharp.
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2019&layout=compact)](https://github.com/Elvin2019/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvin2019&layout=compact&hide=Jupyter%20Notebook)](https://github.com/Elvin2019/github-readme-stats)
 
 ### GitHub Stats
 
