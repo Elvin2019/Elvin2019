@@ -10,7 +10,7 @@
 
 ### GitHub Stats
 
-[![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvin2019&show_icons=true&theme=radical)](https://github.com/Elvin2019/github-readme-stats)
+[![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvin2019&show_icons=true&theme=radical&count_private=true)](https://github.com/Elvin2019/github-readme-stats)
 
 ---
 
