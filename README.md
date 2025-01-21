@@ -12,7 +12,8 @@
 
 [![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvin2019&show_icons=true&theme=radical&count_private=true)](https://github.com/Elvin2019/github-readme-stats)
 
----
+[![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvin2019&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/Elvin2019/github-readme-stats)
+
 
 <!--
 **Elvin2019/Elvin2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
